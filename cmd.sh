@@ -13,5 +13,5 @@ sudo chown -R developer:root /var/www
 sudo find /etc/ssh/ -name "sshd_config"  -exec sed -i "s/PasswordAuthentication no/PasswordAuthentication yes/g" {} \;
 sudo /etc/init.d/ssh restart
 sudo apt install phpmyadmin  -y
-sudo apt update && updgrade -y
+sudo apt update && upgrade -y
 sudo apt autoremove
