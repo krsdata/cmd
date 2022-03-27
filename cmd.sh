@@ -1,4 +1,4 @@
-sudo apt update && updgrade
+sudo apt update && upgrade
 sudo apt install curl zip git -y
 apt-get install software-properties-common
 add-apt-repository ppa:ondrej/php -y
