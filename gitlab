@@ -1,0 +1,15 @@
+gitlab src
+CI and CD
+
+
+https://testdriven.io/blog/deploying-django-to-ec2-with-docker-and-gitlab/#update-gitlab-ci
+https://agileleaf.com/blog/set-up-gitlab-for-continous-deployments/
+
+
+ssh -i ida -o StrictHostKeyChecking=no root@65.2.110.179
+
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-continuous-deployment-pipeline-with-gitlab-ci-cd-on-ubuntu-18-04
+
+
+
