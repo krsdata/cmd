@@ -15,3 +15,4 @@ sudo /etc/init.d/ssh restart
 sudo apt install phpmyadmin  -y
 sudo apt update && upgrade -y
 sudo apt autoremove
+#https://www.how2shout.com/linux/how-to-install-phpmyadmin-with-apache-on-ubuntu-22-04-lts/
